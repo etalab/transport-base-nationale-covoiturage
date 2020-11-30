@@ -9,7 +9,7 @@ jobs:
     steps:
       - checkout
       - run:
-          command: curl -X POST https://go.validata.fr/api/v1/validate -H  "accept:application/json" -H  "Content-Type:multipart/form-data" -F "schema=https://schema.data.gouv.fr/schemas/etalab/schema-lieux-covoiturage/latest/schema.json" -F "file=@bnlc-.csv;type=text/csv" | python3 is_valid.py
+          command: curl -X POST https://go.validata.fr/api/v1/validate -H  "accept:application/json" -H  "Content-Type:multipart/form-data" -F "schema=https://schema.data.gouv.fr/schemas/etalab/schema-lieux-covoiturage/latest/schema.json" -F "file=@bnlc-.csv;type=text/csv" | python3 .circleci/is_valid.py
           name: Validate file
 
 workflows:
