@@ -1,0 +1,11 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: python
+
+  check_file_validity:
+    - run:
+        name: Validate with schema.data.gouv.fr
+        command: |
+          curl -X POST "https://go.validata.fr/api/v1/validate" -H  "accept: application/json" -H  "Content-Type: multipart/form-data" -F "schema=https://schema.data.gouv.fr/schemas/etalab/schema-lieux-covoiturage/latest/schema.json" -F "file=@bnlc_test.csv;type=text/csv" | python3 is_valid.py
