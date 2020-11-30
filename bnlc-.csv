@@ -1,5 +1,5 @@
-"xxxid_lieu","nom_lieu","ad_lieu","com_lieu","insee","type","date_maj","ouvert","source","Xlong","Ylat","nbre_pl","nbre_pmr","duree","horaires","proprio","lumiere","comm"
-"01024-C-001","Mairie d'Attignat","Place De La Fontaine- Anciens Combattants","ATTIGNAT","01024","Parking","2019-08-29","true","200071751","5.158352778","46.28957222","5","","","","","",""
+"id_lieu","nom_lieu","ad_lieu","com_lieu","insee","type","date_maj","ouvert","source","Xlong","Ylat","nbre_pl","nbre_pmr","duree","horaires","proprio","lumiere","comm"
+"01024-C-001","MMairie d'Attignat","Place De La Fontaine- Anciens Combattants","ATTIGNAT","01024","Parking","2019-08-29","true","200071751","5.158352778","46.28957222","5","","","","","",""
 "01049-C-001","Aire de covoiturage Montluel","La Boisse","LA BOISSE","01049","Aire de covoiturage","2019-08-29","true","240100610","5.048432","45.840543","100","","","","","",""
 "01089-C-001","Aire de covoiturage Chéteau-Gaillard","CHATEAU GAILLARD","CHATEAU GAILLARD","01089","Sortie d'autoroute","2019-08-29","true","240100883","5.311396","45.977088","15","","","","","",""
 "01093-C-001","Parking Bel Air","Route De Neuville - Parking Bel Air","CHATILLON SUR CHALARONNE","01093","Parking","2019-08-29","true","200071751","4.964663889","46.12900556","10","","","","","",""
