@@ -1,0 +1,18 @@
+version: 2.1
+
+orbs:
+  python: circleci/python@0.2.1
+
+jobs:
+  schema-data-gouv:
+    executor: python/default
+    steps:
+      - checkout
+      - run:
+          command: curl -X POST https://go.validata.fr/api/v1/validate -H  "accept:application/json" -H  "Content-Type:multipart/form-data" -F "schema=https://schema.data.gouv.fr/schemas/etalab/schema-lieux-covoiturage/latest/schema.json" -F "file=@bnlc-.csv;type=text/csv" | python3 .circleci/is_valid.py
+          name: Validate file
+
+workflows:
+  main:
+    jobs:
+      - schema-data-gouv
