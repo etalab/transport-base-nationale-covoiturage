@@ -11,6 +11,9 @@ jobs:
       - run:
           command: curl -X POST https://go.validata.fr/api/v1/validate -H  "accept:application/json" -H  "Content-Type:multipart/form-data" -F "schema=https://schema.data.gouv.fr/schemas/etalab/schema-lieux-covoiturage/latest/schema.json" -F "file=@bnlc-.csv;type=text/csv" | python3 .circleci/is_valid.py
           name: Validate file
+      - run:
+          command: file bnlc-.csv | grep -q CRLF
+          name: Check for Windows end of line character
 
 workflows:
   main:
