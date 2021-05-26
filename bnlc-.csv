@@ -1,4 +1,5 @@
 "id_lieu","nom_lieu","ad_lieu","com_lieu","insee","type","date_maj","ouvert","source","Xlong","Ylat","nbre_pl","nbre_pmr","duree","horaires","proprio","lumiere","comm"
+"2A004-C-001","A Confina","Lieu-dit Stagnacciu (Croisement RT22 - RD31)","AJACCIO","2A004","Supermarché","2019-08-28","true","539830349","8.783403","41.9523692","0","0","","24-24","Prive","true","transport : Bus Muvistrada (2)"
 "01024-C-001","Mairie d'Attignat","Place De La Fontaine- Anciens Combattants","ATTIGNAT","01024","Parking","2019-08-29","true","200071751","5.158352778","46.28957222","5","","","","","",""
 "01049-C-001","Aire de covoiturage Montluel","La Boisse","LA BOISSE","01049","Aire de covoiturage","2019-08-29","true","240100610","5.048432","45.840543","100","","","","","",""
 "01089-C-001","Aire de covoiturage Château-Gaillard","Château-Gaillard","CHATEAU GAILLARD","01089","Sortie d'autoroute","2019-08-29","true","240100883","5.311396","45.977088","15","","","","","",""
@@ -567,7 +568,6 @@
 "29266-C-001","Aire de covoiturage Saint-Thégonnec","D118. 29410 Saint-Thégonnec","ST THEGONNEC LOC EGUINER","29266","Aire de covoiturage","2019-08-29","true","222900011","-3.940298016","48.52725679","","","","","","",""
 "29270-C-001","Place de L'Eglise","15 Place de l'église. 29800 Saint-Urbain","ST URBAIN","29270","Parking","2019-08-29","true","222900011","-4.228609424","48.39985286","","","","","","",""
 "29277-C-001","Aire de covoiturage Ar Golenn","40 Rue de Cornouaille. 29450 Sizun","SIZUN","29277","Aire de covoiturage","2019-08-29","true","222900011","-4.079011517","48.39989711","","","","","","",""
-"2A004-C-001","A Confina","Lieu-dit Stagnacciu (Croisement RT22 - RD31)","AJACCIO","2A004","Supermarché","2019-08-28","true","539830349","8.783403","41.9523692","0","0","","24-24","Prive","true","transport : Bus Muvistrada (2)"
 "2A004-C-002","Geant","Route de Mezzavia","AJACCIO","2A004","Supermarché","2019-08-28","true","200038958","8.774718","41.9502667","0","0","","","Prive","","transport : Bus Muvistrada (2)"
 "2A004-C-003","Socordis","Croisement RT20 - RT21 - RT40","AJACCIO","2A004","Aire de covoiturage","2019-08-28","true","200076958","8.801744","41.9307942","35","0","","24-24","Collectivite de Corse","true","transport : Bastiabus"
 "2A004-C-004","Station-service BP","Route du Ricanto. Croisement RT21 - RD503","AJACCIO","2A004","Supermarché","2019-08-28","true","200076958","8.761640007","41.92940226","0","0","","24-24","Prive","true","transport : Bus Muvistrada (1)"
