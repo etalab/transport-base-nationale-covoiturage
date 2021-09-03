@@ -11,10 +11,6 @@ jobs:
       - run:
           command: curl -X POST https://api.validata.etalab.studio/validate -H  "accept:application/json" -H  "Content-Type:multipart/form-data" -F "schema=https://schema.data.gouv.fr/schemas/etalab/schema-lieux-covoiturage/latest/schema.json" -F "file=@bnlc-.csv;type=text/csv" | python3 .circleci/is_valid.py
           name: Validate file
-  check-line-termination:
-    executor: python/default
-    steps:
-      - checkout      
       - run:
           command: file bnlc-.csv -e csv | grep -q CRLF
           name: Check for Windows end of line character
