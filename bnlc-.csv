@@ -8657,3 +8657,7 @@
 "18197-C-003","SAMEXPO","Aire de SAMEXPO","9 Quai Pluviôse","Saint-Amand-Montrond","18197","Parking","2022-06-15","true","211801972","2.501315","46.718626","3","0","","","Ville","true",""
 "49201-C-001","","Parking de la Gare","1 Rue de la Gare","LA MENITRE","49201","Parking","2022-06-21","true","244900882","-0.2768696865079995","47.397516742550465","80","","","","","true","Accés direct à la gare SNCF, Abri-vélo sécurisé géré par la SNCF"
 "49194-C-001","","Aire de covoiturage sur la RD 374","Rond Point RD 374 / RD 74 en direction de Saint Mathurin sur Loire","MAZE-MILON","49194","Aire de covoiturage","2022-06-21","true","244900882","-0.2770890","47.45392","25","","","","Ville","false",""
+"22226-C-001","","Aire de covoiturage de Ploumilliau","Giratoire de la Croix Rouge","Ploumilliau","22226","Aire de covoiturage","2022-06-24","true","200048775","-3.522964","48.700356","15","2","","","","false",""
+"22211-C-001","","Aire de covoiturage de Kerauzern","Route de Kerauzern","Ploubezre","22211","Aire de covoiturage","2022-06-24","true","200048775","-3.444913","48.663834","","","","","","false",""
+"22343-C-001","","Aire de covoiturage de Trebeurden","Giratoire route de Lan ar Cleis / Route de Lannion","Trebeurden","22343","Aire de covoiturage","2022-06-24","true","200048775","-3.551272","48.767037","","","","","","false",""
+"22264-C-001","","Aire de covoiturage de La Roche-Jaudy","Rue des Ajoncs","La Roche-Jaudy","22264","Aire de covoiturage","2022-06-24","true","200048775","-3.250262","48.743626","","","","","","false",""
