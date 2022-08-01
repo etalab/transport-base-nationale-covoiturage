@@ -8653,3 +8653,7 @@
 "72268-C-002","","Aire de covoiturage sur la D32","Saint-Biez-en-Belin","","72268","Aire de covoiturage","2022-07-06","true","227200029","0.249004 ","47.880723 ","","","","","","",""
 "72268-C-003","","Gare de Saint-Gervais-Belin","Saint-Gervais-en-Belin","","72268","Parking","2022-07-06","true","227200029","0.217212 ","47.874164 ","","","","","","",""
 "69882-C-001","","Gare de covoiturage Quai Gailleton","Quai Gailleton","Lyon 2","69882","Aire de covoiturage","2022-07-04","true","","4.833015","45.751914","","","","","","",""
+"49018-C-003","","Parking du Château","1 rue du Tribunal","BAUGE EN ANJOU","49018","Parking","2022-07-22","true","244900882","-0.102174","47.540725","100","","","","Ville","true","Borne de recharge véhicules électriques"
+"49018-C-004","","Parking proche du Plan d'Eau du Vieil-Baugé","Rue de la Croix de Mission","BAUGE EN ANJOU","49018","Parking","2022-07-22","true","244900882","-0.119058","47.530717","30","","","","Ville","false",""
+"49018-C-005","","Parking rue principale Echemiré","Rue Principale","BAUGE EN ANJOU","49018","Aire de covoiturage","2022-07-22","true","244900882","-0.170503","47.551999","15","","","","Ville","false",""
+"49228-C-001","","Parking Rue des Sports ","Rue des Sports","NOYANT-VILLAGES","49228","Parking","2022-07-22","true","244900882","0.110191","47.513788","70","","","","Ville","false",""
