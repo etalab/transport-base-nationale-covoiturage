@@ -1,5 +1,5 @@
 "id_lieu","id_local","nom_lieu","ad_lieu","com_lieu","insee","type","date_maj","ouvert","source","Xlong","Ylat","nbre_pl","nbre_pmr","duree","horaires","proprio","lumiere","comm"
-"2A004-C-001","","A Confina","Lieu-dit Stagnacciu (Croisement RT22 - RD31)","AJACCIO","2A004","Supermarché","2019-08-28","true","539830349","8.783403","41.9523692","0","0","","24/7","Prive","true","transport : Bus Muvistrada (2)"
+"2A004-C-001","","A Confinaxx","Lieu-dit Stagnacciu (Croisement RT22 - RD31)","AJACCIO","2A004","Supermarché","2019-08-28","true","539830349","8.783403","41.9523692","0","0","","24/7","Prive","true","transport : Bus Muvistrada (2)"
 "2A004-C-002","","Geant","Route de Mezzavia","AJACCIO","2A004","Supermarché","2019-08-28","true","200038958","8.774718","41.9502667","0","0","","","Prive","","transport : Bus Muvistrada (2)"
 "2A004-C-003","","Socordis","Croisement RT20 - RT21 - RT40","AJACCIO","2A004","Aire de covoiturage","2019-08-28","true","200076958","8.801744","41.9307942","35","0","","24/7","Collectivite de Corse","true","transport : Bastiabus"
 "2A004-C-004","","Station-service BP","Route du Ricanto. Croisement RT21 - RD503","AJACCIO","2A004","Supermarché","2019-08-28","true","200076958","8.761640007","41.92940226","0","0","","24/7","Prive","true","transport : Bus Muvistrada (1)"
