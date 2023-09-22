@@ -1,4 +1,6 @@
 "id_lieu","id_local","nom_lieu","ad_lieu","com_lieu","insee","type","date_maj","ouvert","source","Xlong","Ylat","nbre_pl","nbre_pmr","duree","horaires","proprio","lumiere","comm"
+"54232-C-003","","Aire de covoiturage de Gondreville","D 400","Gondreville","54232","Aire de covoiturage","2023-09-23","true","200070563","5.9778969","48.6898869","48","1","","24/7","","true",""
+"54528-C-004","","Parking Le Comptoir","Avenue de l’Europe","Toul","54528","Parking","2023-09-23","true","200070563","5.9043514","48.6944948","","0","","24/7","","",""
 "29213-C-001","","Aire de covoiturage Berven centre","place du champ de foire. 29440 Plouzévédé","PLOUZEVEDE","29213","Aire de covoiturage","2023-08-02","true","491608675","-4.112750","48.605705","","","","","","",""
 "29213-C-002","","Mât d'auto-stop Berven centre","place du champ de foire. 29440 Plouzévédé","PLOUZEVEDE","29213","Auto-stop","2023-08-02","true","491608675","-4.112750","48.605705","","","","","","",""
 "29074-C-001","","Aire de covoiturage Guimiliau centre","11 rue du Calvaire. 29400 Guimiliau","GUIMILIAU","29074","Aire de covoiturage","2023-08-02","true","491608675","-4.000509","48.487612","","","","","","",""
