@@ -30,4 +30,4 @@ with open(FILENAME) as f:
 
     urls = [r["dataset_url"] for r in rows]
     if len(urls) != len(set(urls)):
-        raise ValueError("{FILENAME} ne doit pas contenir de doublons")
+        raise ValueError(f"{FILENAME} ne doit pas contenir de doublons")
