@@ -8548,9 +8548,9 @@
 "68203-C-001","","Merxheim - Gare","rue de la gare","Merxheim","68203","Parking relais","2022-04-14","true","226800019","7.303043","47.913302","30","1","","","commune","true",""
 "68156-C-001","","Issenheim - RD505","rue de Rouffach","Issenheim","68156","Aire de covoiturage","2022-04-14","true","226800019","7.256445","47.908448","9","0","","","commune","true",""
 "68113-C-001","","Guemar - stade","chemin de Ostheim","Guemar","68113","Parking","2022-04-14","true","226800019","7.391285","48.185139","80","1","","","commune","false",""
-"70532-C-001","01","Champs Davis EST","Échangeur RN57, sortie direction Vellefaux,  1 Rue de la Croix Rousse, 70000 Vellefaux","Vellefaux","70532","Aire de covoiturage","2022-05-16","true","200041853","6.133374","47.554299","20","2","","","Communauté de Communes du Pays de Montbozon et du Chanois","",""
-"70197-C-001","02","Le village de Dampierre","4 Place de l'Eglise, 70230 Dampierre-sur-Linotte","Dampierre-sur-Linotte","70197","Aire de covoiturage","2022-05-16","true","200041853","6.232895388433297","47.51105032497623","9","1","","","Communauté de Communes du Pays de Montbozon et du Chanois","true","Abri à vélo 6 places"
-"70309-C-001","03","Le Village","Rue Jean Lardy, 70230 Loulans-Verchamp","Loulans-Verchamp","70309","Aire de covoiturage","2022-05-16","true","200041853","6.204659226473006","47.44636340325223","6","1","","","Communauté de Communes du Pays de Montbozon et du Chanois","true","Abri à vélos 6 places"
+"70532-C-001","1","Champs Davis EST","Échangeur RN57, sortie direction Vellefaux,  1 Rue de la Croix Rousse, 70000 Vellefaux","Vellefaux","70532","Aire de covoiturage","2022-05-16","true","200041853","6.133374","47.554299","20","2","","","Communauté de Communes du Pays de Montbozon et du Chanois","",""
+"70197-C-001","2","Le village de Dampierre","4 Place de l'Eglise, 70230 Dampierre-sur-Linotte","Dampierre-sur-Linotte","70197","Aire de covoiturage","2022-05-16","true","200041853","6.232895388433297","47.51105032497623","9","1","","","Communauté de Communes du Pays de Montbozon et du Chanois","true","Abri à vélo 6 places"
+"70309-C-001","3","Le Village","Rue Jean Lardy, 70230 Loulans-Verchamp","Loulans-Verchamp","70309","Aire de covoiturage","2022-05-16","true","200041853","6.204659226473006","47.44636340325223","6","1","","","Communauté de Communes du Pays de Montbozon et du Chanois","true","Abri à vélos 6 places"
 "56181-C-001","2CR","Parking de la Côte Rouge","Côte Rouge 56290 Port Louis","Port Louis","56181","Aire de covoiturage","2022-04-29","true","215601816","-3.34130","47.70917","2","1","480","24/7","Commune","true","aucun"
 "53360-C-001","CCPC-1","Covoiturage Quelaines Saint Gault","route de Cossé le Vivien face au plan d’eau entrée boulevard du Stade","Quelaines Saint-Gault","53360","Aire de covoiturage","2022-06-02","true","","-0.806809","47.925225","20","0","","","Mairie de Quelaines Saint-Gault","true",""
 "45272-C-001","PARK_32","La Jonchère","","Saint-Cyr-en-Val","45272","Aire de covoiturage","2022-06-02","true","244500468","1.964703999839096","47.83310000003752","","","","","","",""
@@ -9191,3 +9191,17 @@ Poubelle + containers de tri sélectif."
 "80024-C-003","","Amiens Nord / A 16","Giratoire entre la RD 1001, la RN 1 et l'échangeur n° 20 de l'A16","Argoeuves","80024","Aire de covoiturage","2023-02-01","true","228000014","2.24473","49.934272","32","2","","","SANEF","true","Abri, poubelle"
 "80656-C-002","","Quevauvillers","Derrière la salle des fêtes, 17 Rue Sainneville, Quevauvillers","Quevauvillers","80656","Aire de covoiturage","2023-02-01","true","228000014","2.082371","49.822718","16","1","","","Département de la Somme","true",""
 "80385-C-002","","Grand-Laviers","Place de la Mairie, Route du Crotoy, Grand-Laviers","Grand-Laviers","80385","Aire de covoiturage","2023-02-01","true","228000014","1.787687","50.12859","23","3","","","Commune de Grand-Laviers","true",""
+"81004-C-001","","Parking relais du Caussels","34 Avenue de Saint-Juéry","Albi","81004","Parking relais","2023-10-31","true","248100737","2.172556","43.934024","50","3","","","Communauté d’Agglomération de l’Albigeois","true","Desserte en transports en commun et abri bus 
+Services vélo : arceaux + consignes sécurisées 
+Autres  équipements : 2 bornes de recharges électriques"
+"81156-C-001","","Aire de covoiturage de Rieumas","ZA Eco2 – Chemin de Rieumas","Marssac-sur-Tarn","81156","Aire de covoiturage","2023-10-31","true","248100737","2.055947","43.912857","126","5","","","Communauté d’Agglomération de l’Albigeois","true","Desserte en transports en commun et abri bus 
+Services vélo : arceaux + consignes sécurisées 
+Autres  équipements : 4 bornes de recharges électriques"
+"81284-C-001","","Aire de covoiturage du Séquestre","Rue Robert Raynal","Le Séquestre","81284","Aire de covoiturage","2023-10-31","true","248100737","2.118812","43.916776","102","5","","","Communauté d’Agglomération de l’Albigeois","true","Desserte en transports en commun et abri bus 
+Services vélo : arceaux + consignes sécurisées "
+"81004-C-002","","Parking relais de la Milliassole","29 Rue de la Milliassole","Albi","81004","Parking relais","2023-10-31","true","218100048","2.168825","43.919259","120","4","","","Ville d’Albi","true","Desserte en transports en commun et abri bus 
+Services vélo : arceaux 
+Autres équipements : aire de camping-car, sanitaire"
+"81004-C-003","","Parking Suzanne Lenglen","2 Rue Suzanne Lenglen","Albi","81004","Parking","2023-10-31","true","248100737","2.169167","43.921414","49","2","","","Communauté d’Agglomération de l’Albigeois","true","Desserte en transports en commun et abri bus 
+Services vélo : arceaux"
+"81004-C-004","","Parking Route de Castres","2 Chemin de Ranteil","Albi","81004","Parking","2023-10-31","true","248100737","2.141164","43.905865","26","2","","","Communauté d’Agglomération de l’Albigeois","true","Desserte en transports en commun et arrêt de car Lio"
