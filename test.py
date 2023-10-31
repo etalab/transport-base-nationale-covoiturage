@@ -29,5 +29,6 @@ with open(FILENAME) as f:
             )
 
     urls = [r["dataset_url"] for r in rows]
-    if len(urls) != len(set(urls)):
-        raise ValueError("{FILENAME} ne doit pas contenir de doublons")
+    duplicates = set([u for u in urls if urls.count(u) > 1])
+    if len(duplicates) > 0:
+        raise ValueError(f"{FILENAME} ne doit pas contenir de doublons. Doublons : f{duplicates}")
