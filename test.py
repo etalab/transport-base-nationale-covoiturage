@@ -35,7 +35,7 @@ with open(FILENAME) as f:
                     errors.append(f"LIGNE {row_number} - {dataset_url} : la ressource {r['title']} n'est pas conforme au schéma")
         
         if not haveSchema:
-            errors.append(f"LIGNE {row_number} - {dataset_url} ne contient aucune ressource avec le schéma")
+            errors.append(f"LIGNE {row_number} - {dataset_url} : aucune ressource avec le schéma")
         
 
     if len(errors) > 0:
