@@ -20,7 +20,7 @@ def ressource_validation(ressource_url):
 with open(FILENAME) as f:
     rows = [r for r in csv.DictReader(f)]
     errors = []
-    row_number = 1;
+    row_number = 1
     for row in rows:
         row_number += 1
         dataset_url = row["dataset_url"]
