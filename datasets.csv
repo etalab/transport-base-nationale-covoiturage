@@ -1,11 +1,7 @@
 dataset_url,region,departement,epci,commune,comm
-https://www.data.gouv.fr/fr/datasets/aires-de-covoiturage-de-bourgogne-franche-comte/,BFC,,,,Région BFC avec 199 lieux lors de l'ajout
-https://www.data.gouv.fr/fr/datasets/parkings-de-covoiturage/,GES,57,245701222,,Communauté de communes Val-de-Fensch avec 3 lieux lors de l'ajout
 https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-organisation-ddtm-ille-et-vilaine/,BRE,35,,,Département Ille-et-Vilaine avec 161 lieux  lors de l'ajout via DDTM
 https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-organisation-commune-de-gratentour/,OCC,31,243100518,31230,Commune de Gratentour avec 1 lieu lors de l'ajout
 https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-organisation-commune-de-saint-nabord/,GES,88,200068377,88429,Commune de Saint-Narbord avec 1 lieu lors de l'ajout
 https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-organisation-mairie-de-salles-dangles/,NAQ,16,200070514,16359,Commune de Salles d'Angles avec 1 lieu lors de l'ajout
 https://www.data.gouv.fr/fr/datasets/aires-de-covoiturage-metropole-rouen-normandie/,NOR,76,200023414,,Métropole Rouen Normandie avec 3 lieux lors de l'ajout
 https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-a-la-ville-dantibes/,PAC,06,240600585,06004,Commune d'Antibes avec 2 lieux lors de l'ajout
-https://www.data.gouv.fr/fr/datasets/aires-de-covoiturage-2/,ARA,42,200065886,,Loire Forez Agglomération avec 17 lieux lors de l'ajout
-https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/
