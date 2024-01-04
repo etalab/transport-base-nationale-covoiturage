@@ -11,6 +11,11 @@ def dataset_api_url(dataset_url):
     slug = dataset_url.replace("https://www.data.gouv.fr/fr/datasets/", "")
     return f"https://www.data.gouv.fr/api/1/datasets/{slug}"
 
+def ressource_validation(ressource_url):
+        params = {"url":ressource_url , "schema": URL_SCHEMA}
+        response_validata = requests.get("https://api.validata.etalab.studio/validate", params=params)
+        response_validata.raise_for_status()
+        return response_validata.json()["report"].get("valid")
 
 def resource_is_valid(resource_url):
     params = {"url": resource_url, "schema": URL_SCHEMA}
