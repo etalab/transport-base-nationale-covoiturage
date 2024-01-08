@@ -4,7 +4,7 @@ import requests
 
 FILENAME = "datasets.csv"
 TARGET_SCHEMA = "etalab/schema-lieux-covoiturage"
-URL_SCHEMA = "https://raw.githubusercontent.com/etalab/lieux-covoiturage/master/schema.json"
+URL_SCHEMA = "https://schema.data.gouv.fr/schemas/etalab/schema-lieux-covoiturage/latest/schema.json"
 
 
 def dataset_api_url(dataset_url):
