@@ -29,7 +29,7 @@ with open(FILENAME) as f:
         hasSchema = False
 
         for r in response.json()["resources"]:
-            if r["schema"].get("name") == TARGET_SCHEMA:
+            if r["schema"] is not None and r["schema"].get("name") == TARGET_SCHEMA:
                 hasSchema = True
                 if not resource_is_valid(r["url"]):
                     errors.append(
