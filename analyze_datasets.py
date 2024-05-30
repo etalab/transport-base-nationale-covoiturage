@@ -35,7 +35,7 @@ with open(FILENAME) as f:
         hasSchema = False
 
         for r in response.json()["resources"]:
-            if r["schema"].get("name") == TARGET_SCHEMA:
+            if r["schema"] is not None and r["schema"].get("name") == TARGET_SCHEMA:
                 hasSchema = True
                 validataReport = get_validata_report(r["url"])
                 nbRowsInFile = validataReport["tasks"][0]["resource"]["stats"]["rows"]
