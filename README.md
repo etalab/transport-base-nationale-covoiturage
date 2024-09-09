@@ -10,6 +10,4 @@ Vous pouvez aussi déclarer la réutilisation de ce jeu de données si celui-ci 
 
 ## Contribuer à la base
 
-Vous pouvez directement contribuer à la base en y proposant des modifications sous la forme de [pull requests](https://github.com/betagouv/transport-base-nationale-covoiturage/pulls) sur ce repo.
-
-Il est également possible de le faire via la page dédiée [contribuer.transport.data.gouv.fr](https://contribuer.transport.data.gouv.fr), sans aucune connaissance technique.
+Vous pouvez directement contribuer à la base en publiant vos données sur [data.gouv.fr](https://data.gouv.fr). Votre jeu de données doit contenir au minimum une ressource avec le schéma des [lieux de covoiturage](https://schema.data.gouv.fr/etalab/schema-lieux-covoiturage/). Contactez ensuite le PAN à l'adresse contact@transport.data.gouv.fr afin que votre jeu de données soit ajouté au fichier ```datasets.csv``` de ce dépôt. Le mécanisme de consolidation récupère ces jeux de données pour former la BNLC.
