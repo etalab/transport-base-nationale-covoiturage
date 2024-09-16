@@ -19,7 +19,10 @@ def get_validata_report(resource_url):
     params = {"url": resource_url, "schema": URL_SCHEMA}
     validata_response = requests.get("https://api.validata.etalab.studio/validate", params=params)
     validata_response.raise_for_status()
-    return validata_response.json()["report"]
+    try:
+        return validata_response.json()["report"]
+    except KeyError:
+        print(f"No metadatas from validata for: {resource_url}") 
 
 
 with open(FILENAME) as f:
