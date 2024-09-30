@@ -16,7 +16,10 @@ def resource_is_valid(resource_url):
     params = {"url": resource_url, "schema": URL_SCHEMA}
     validata_response = requests.get("https://api.validata.etalab.studio/validate", params=params)
     validata_response.raise_for_status()
-    return validata_response.json()["report"].get("valid")
+    try:
+        return validata_response.json()["report"].get("valid")
+    except KeyError:
+        return False
 
 
 with open(FILENAME) as f:
