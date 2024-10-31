@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlong,Ylat,nbre_pl,nbre_pmr,duree,horaires,proprio,lumiere,comm
 01004-C-002,SMT-305,Arrêt covoit'ici Ambérieu en Bugey,Gare d'Ambérieu en Bugey,AMBERIEU-EN-BUGEY,01004,Auto-stop,2022-07-11,true,240100883,5.34272020620408,45.954232106707,0,,,,,,
 01004-C-001,SMT-303,Parking intermodal Gare d'Ambérieu en Bugey,"Rue Emile Bravet, Ambérieu en Bugey",AMBERIEU-EN-BUGEY,01004,Parking,2022-07-11,true,240100883,5.34119617,45.956598704,218,,,,,,
