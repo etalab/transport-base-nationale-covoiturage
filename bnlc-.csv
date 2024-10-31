@@ -31,8 +31,8 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 01266-C-002,SMT-511,Montrevel,place De Gaulle,MONTREVEL-EN-BRESSE,01266,Parking,2022-07-11,true,200071751,5.1269114963524,46.3361873,15,,,,,,
 01276-C-001,SMT-69,"Parking de covoiturage, La Côte",780 Route de Balan - Dept. 01 - Autoroute A42 - Diffuseur n° 5.1,NIEVROZ,01276,Aire de covoiturage,2022-07-11,true,240100610,5.05087933,45.8379163,75,2,,,,,Borne de recharge életrique + stations vélos sécurisés + arrêt couvert (type arrêt de bus) pour covoitureurs /APRR
 01290-C-002,SMT-301,Aire de covoiturage A42 Meximieux Perouges,Dept. 01 - Autoroute A42 - Diffuseur n°7,PEROUGES,01290,Aire de covoiturage,2022-07-11,true,240100883,5.18408351337754,45.8597518026284,141,4,,,,,APRR
-01301-C-002,C-002,Parking Quinconces,Route De Chamonin - ""Quinconces"",POLLIAT,01301,Parking,2019-08-29,true,200071751,5.121596,46.250066,6,,,,,,
-01301-C-001,C-001,Parking du Stade,Route Saint Martin Le Chétel ""Stade"",POLLIAT,01301,Parking,2019-08-29,true,200071751,5.126572,46.251132,8,,,,,,
+01301-C-002,C-002,Parking Quinconces,"Route De Chamonin - ""Quinconces""",POLLIAT,01301,Parking,2019-08-29,true,200071751,5.121596,46.250066,6,,,,,,
+01301-C-001,C-001,Parking du Stade,"Route Saint Martin Le Chétel ""Stade""",POLLIAT,01301,Parking,2019-08-29,true,200071751,5.126572,46.251132,8,,,,,,
 01304-C-001,SMT-452,Pont-d'Ain,Dept. 01 - Autoroute A42 - Diffuseur n°9,PONT-D'AIN,01304,Aire de covoiturage,2022-07-11,true,200029999,5.33049,46.049867545,49,,,,,,
 01343-C-001,C-001,Parking Mairie,Place de la Mairie,Saint-Cyr-sur-Menthon,01343,Parking,2021-09-14,true,210103438,4.974385,46.275074,57,2,,,Commune,true,
 01350-C-002,SMT-481,Terrain de Boules - Chemin des Lyonnières,chemin des Lyonnières - terrain de boules,SAINT-ETIENNE-DU-BOIS,01350,Aire de covoiturage,2022-07-11,true,200071751,5.289722,46.2832222,5,,,,,,
@@ -104,7 +104,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 04070-C-001,C-001,Parking Décathlon Route de Marseille,5 Route de Marseille. 04000 Digne-les-Bains,DIGNE LES BAINS,04070,Parking,2019-08-29,true,220400014,6.17887,44.069529,,,,,,,
 04084-C-001,C-001,Parking Entrée de Village,D907 à droite de l'entrée du village en arrivant de Mézel,ESTOUBLON,04084,Parking,2019-08-29,true,220400014,6.17125,43.943831,,,,,,,
 04086-C-001,C-001,Place de L'église,2 Le Village. 04400 Faucon-de-Barcelonnette,FAUCON DE BARCELONNETTE,04086,Parking,2019-08-29,true,220400014,6.678269,44.393746,,,,,,,
-04104-C-001,C-001,Parking devant Le Camping ""Les Lauzons"",Les Bouires,LIMANS,04104,Parking,2019-08-29,true,220400014,5.733151,43.973047,,,,,,,
+04104-C-001,C-001,"Parking devant Le Camping ""Les Lauzons""",Les Bouires,LIMANS,04104,Parking,2019-08-29,true,220400014,5.733151,43.973047,,,,,,,
 04110-C-001,C-001,Parking de L'Esplanade Jean Moulin,4586 Avenue du Général de Gaulle. 04510 Mallemoisson,MALLEMOISSON,04110,Parking,2019-08-29,true,220400014,6.126217,44.041722,,,,,,,
 04122-C-001,C-001,Parking Au Carrefour des 4 Chemins,D117 & D17,MIRABEAU,04122,Parking,2019-08-29,true,220400014,6.10239,44.05902,,,,,,,
 04174-C-001,C-001,Parking du Croisement D460 et Rn202 (Au Passage à Niveau),D460. 04240 Saint-Benoét,ST BENOIT,04174,Parking,2019-08-29,true,220400014,6.724074,43.960158,,,,,,,
@@ -293,7 +293,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 16085-C-001,20_DRA16_085,Chantebuse,Giratoire de Chante Buse,Chasseneuil-sur-Bonnieure,16085,Aire de covoiturage,2020-02-17,true,221600018,0.467048,45.83213,19,1,10080,24/7,Département de la Charente,false,
 16089-C-002,21_DRA16_089,La Trache,A proximité directe du giratoire RN 141 de la Trache le long de la RD149,Châteaubernard,16089,Aire de covoiturage,2021-01-19,true,221600018,-0.293278,45.68026,38,2,10080,24/7,Commune de Châteaubernard,false,Aire équipée d'un arrêt de bus (Ligne Transcom Grand Cognac)
 16089-C-001,20_DRA16_089,La pointe à Rullaud,Aux abords carrefour RD731/RD149 Chemin de Treillis,Châteaubernard,16089,Aire de covoiturage,2020-02-17,true,221600018,-0.328885,45.66764,19,1,10080,24/7,Commune de Châteaubernard,false,
-16095-C-001,20_DRA16_095,Chenon - Maisons Rouges,Chemin de Bel Air,Chenon,16095,Aire de covoiturage,2020-02-17,true,221600018,0.203251,45.9361,10,0,10080,24/7,CdC Cœur de Charente,false,De part et d'autre de la voie d'accès à la ZE des ""Maisons rouges"" (D 27). Avant l'entrée du CEI de la DIRA
+16095-C-001,20_DRA16_095,Chenon - Maisons Rouges,Chemin de Bel Air,Chenon,16095,Aire de covoiturage,2020-02-17,true,221600018,0.203251,45.9361,10,0,10080,24/7,CdC Cœur de Charente,false,"De part et d'autre de la voie d'accès à la ZE des ""Maisons rouges"" (D 27). Avant l'entrée du CEI de la DIRA"
 16102-C-001,20_DRA16_102,Crouin,Boulevard André Malraux,Cognac,16102,Aire de covoiturage,2020-02-17,true,221600018,-0.350831,45.69314,30,0,10080,24/7,Commune de Cognac,true,Portique avec limitation de hauteur
 16106-C-001,20_DRA16_106,Confolens - Lycée Emile Roux,Avenue du Général de Gaulle (D948),Confolens,16106,Aire de covoiturage,2020-02-17,true,221600018,0.673277,46.0039,10,0,10080,24/7,Commune de Confolens,true,Aire intégrée au parking du Lycée  Emile Roux. Bus scolaires
 16106-C-002,22_DRA16_106,Terre Neuve,RD948_GIR_4,Confolens,16106,Aire de covoiturage,2022-01-10,true,221600018,0.653382,46.02552,13,1,10080,24/7,Département de la Charente,false,Aire intégrée au parking de Terre Neuve
@@ -302,7 +302,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 16132-C-001,22_DRA16_132,Mons,RD941_GIR_0  Giratoire de Mons,Étagnac,16132,Aire de covoiturage,2022-01-10,true,221600018,0.816801,45.88828,17,1,10080,24/7,Département de la Charente,false,
 16134-C-001,21_DRA16_134,Chêne Vert,Giratoire de Chantalouette,Exideuil-sur-Vienne,16134,Aire de covoiturage,2021-01-19,true,221600018,0.690787,45.87257,19,1,10080,24/7,Département de la Charente,false,
 16138-C-001,22_DRA16_138,Brénat,D 37,Fléac,16138,Aire de covoiturage,2022-11-30,false,221600018,0.072553,45.68471,23,2,10080,24/7,SNCF RESEAU,false,
-16143-C-001,20_DRA16_143,L’Étang Genevreaux,Lieu-dit ""L'Etang Genevreaux"",Fouquebrune,16143,Aire de covoiturage,2020-02-17,true,221600018,0.179956,45.53535,9,0,10080,24/7,Département de la Charente,false,Ligne régulière
+16143-C-001,20_DRA16_143,L’Étang Genevreaux,"Lieu-dit ""L'Etang Genevreaux""",Fouquebrune,16143,Aire de covoiturage,2020-02-17,true,221600018,0.179956,45.53535,9,0,10080,24/7,Département de la Charente,false,Ligne régulière
 16153-C-001,20_DRA16_153,Mainxe - Montagan,Echangeur de Montagan - Giratoire sud N141-D736,Mainxe-Gondeville,16153,Aire de covoiturage,2020-02-17,true,221600018,-0.189338,45.66835,18,1,10080,24/7,Département de la Charente,true,
 16167-C-001,20_DRA16_167,La Belloire,Échangeur nord-déviation de Jarnac « La Belloire » (D941/D194),Jarnac,16167,Aire de covoiturage,2020-02-17,true,221600018,-0.139842,45.69258,30,2,10080,24/7,Département de la Charente,false,Giratoire D941/D194. Ligne interurbaine 15
 16200-C-001,21_DRA16_200,Moulin à Vent,Echangeur sud de Mansle - Giratoire N10-D40,Maine-de-Boixe,16200,Aire de covoiturage,2021-01-19,true,221600018,0.18456,45.8626,19,2,10080,24/7,Département de la Charente,false,
@@ -311,7 +311,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 16276-C-001,22_DRA16_276,Reignac,Giratoire RN10/RD910/RD14,Reignac,16276,Aire de covoiturage,2022-01-10,true,221600018,-0.174848,45.42764,7,1,10080,24/7,Commune de Reignac,false,
 16281-C-001,21_DRA16_281,La Bécasse,Echangeur de St-Projet,La Rochefoucauld-en-Angoumois,16281,Aire de covoiturage,2021-01-19,true,221600018,0.344547,45.73613,11,1,10080,24/7,Département de la Charente,true,Parking sur DP communal
 16286-C-001,20_DRA16_286,Rouillac - Près de Lorret,"482, Route d'Aigre - Lieu-dit Lorret (carrefour D939/D736)",Rouillac,16286,Aire de covoiturage,2020-02-17,true,221600018,-0.06291,45.77953,15,0,10080,24/7,Commune de Rouillac,true,Aire intégrée dans le parking face à la piscine avec toilettes publiques
-16287-C-001,20_DRA16_287,Roullet Le Berguille,Echangeur de la N 10 / D 7 au lieu dit ""le Berguille"",Roullet-Saint-Estèphe,16287,Aire de covoiturage,2020-02-17,true,221600018,0.03377,45.5749,20,2,10080,24/7,Commune de Roullet-Saint-Estèphe,true,
+16287-C-001,20_DRA16_287,Roullet Le Berguille,"Echangeur de la N 10 / D 7 au lieu dit ""le Berguille""",Roullet-Saint-Estèphe,16287,Aire de covoiturage,2020-02-17,true,221600018,0.03377,45.5749,20,2,10080,24/7,Commune de Roullet-Saint-Estèphe,true,
 16350-C-001,20_DRA16_350,Saint-Séverin - Le stade,Rue du Stade,Saint-Séverin,16350,Aire de covoiturage,2020-02-17,true,221600018,0.249987,45.31398,8,1,10080,24/7,Commune de Saint-Séverin,true,Aire intégrée dans le parking du stade
 16358-C-001,20_DRA16_358,Jaurès - Les planes,Les Planes - Rue de Royan (RN 141),Saint-Yrieix-sur-Charente,16358,Aire de covoiturage,2020-02-17,true,221600018,0.12039,45.66791,33,0,10080,24/7,Commune de Saint-Yrieix-sur-Charente,false,Portique en bois avec limitation de hauteur. Lignes Möbius 5 et 71
 16358-C-002,22_DRA16_358,Villesèche,Route de Saint-Jean-d'Angély,Saint-Yrieix-sur-Charente,16358,Aire de covoiturage,2022-11-30,true,221600018,0.103644,45.69126,20,2,10080,24/7,Département de la Charente,false,
@@ -1005,7 +1005,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 38562-C-002,C-002,Vizille le péage,Route du Maquis de L'Oisans,Vizille,38562,Parking,2019-07-18,true,200040715,5.771164977,45.05767243,10,0,,,Grenoble-Alpes Métropole,true,
 38563-C-001,C-001,P+R Champfeuillet,11 Route des Bois Parc de Montaly,Voiron,38563,Parking relais,2019-07-18,true,243800984,5.567052357,45.35018777,132,3,,,Pays Voironnais,true,
 38920-C-001,C-001,Gare de Brignoud,Avenue Robert Huant,Brignoud,38920,Parking,2019-07-18,true,200018166,5.901533,45.262624,115,,,,Le Grésivaudan,,
-39046-C-001,C-001,Bouléme,Lieu dit ""Bouléme"". 39310 Bellecombe,BELLECOMBE,39046,Parking,2019-08-29,true,223900010,5.923287605,46.32467872,,,,,,,
+39046-C-001,C-001,Bouléme,"Lieu dit ""Bouléme"". 39310 Bellecombe",BELLECOMBE,39046,Parking,2019-08-29,true,223900010,5.923287605,46.32467872,,,,,,,
 39059-C-001,C-001,Salle Polyvalente,5 Rue des Couenneaux. 39220 Bois-d'Amont,BOIS D AMONT,39059,Parking,2019-08-29,true,223900010,6.137689049,46.53740853,,,,,,,
 39129-C-002,C-002,Zone artisanale,route des. 1 Route de Genéve. 39150 Chaux-des-Crotenay,CHAUX DES CROTENAY,39129,Parking,2019-08-29,true,223900010,5.9439349,46.6558787,,,,,,,
 39130-C-001,C-001,Chaux-des-Prés,11 Route Principale. 39150 Chaux des Prés,NANCHEZ,39130,Parking,2019-08-29,true,223900010,5.868544816,46.50849004,,,,,,,
@@ -1051,15 +1051,15 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 42019-C-001,SMT-44,Aire de Boën-sur-Lignon,,BOEN-SUR-LIGNON,42019,Aire de covoiturage,2022-07-11,true,200065886,4.008701,45.740456,49,1,,,,,
 42021-C-001,SMT-120,Boisset-Saint-Priest Multiservices,Rue des écoliers 42560 BOISSET-SAINT-PRIEST,BOISSET-SAINT-PRIEST,42021,Aire de covoiturage,2022-07-11,true,200065886,4.106717,45.512235,3,0,,,,,
 42023-C-001,C-001,Aire de covoiturage de la piscine,Parking de la piscine - Zone des Rivets - RD 1082,BOURG ARGENTAL,42023,Aire de covoiturage,2019-08-29,true,214200230,4.57381,45.298728,50,3,,,Maison de la mobilité du Pilat,,
-42023-C-003,SMT-435,Bourg-Argental ""la soierie"",,BOURG-ARGENTAL,42023,Aire de covoiturage,2022-07-11,true,244200622,4.558112,45.298046,31,2,,,,,Autre usage possible
+42023-C-003,SMT-435,"Bourg-Argental ""la soierie""",,BOURG-ARGENTAL,42023,Aire de covoiturage,2022-07-11,true,244200622,4.558112,45.298046,31,2,,,,,Autre usage possible
 42026-C-001,SMT-171,Briennon - Croix Saint-Paul,Rue du 8 mai 1945,BRIENNON,42026,Aire de covoiturage,2022-07-11,true,200035202,4.077907,46.150247,11,0,,,,,
 42029-C-001,SMT-43,Aire Charles de Gaulle,,BUSSIERES,42029,Aire de covoiturage,2022-07-11,true,200065894,4.272083,45.835194,4,0,,,,,
 42038-C-001,SMT-45,Aire de Chalain le Comtal,A72 Sortie 7,CHALAIN-LE-COMTAL,42038,Aire de covoiturage,2022-07-11,true,200065886,4.196866,45.636279,98,2,,,,,
 42039-C-001,SMT-123,Chalmazel Le Pont,La Gouerie 42920 CHALMAZEL,CHALMAZEL-JEANSAGNIERE,42039,Aire de covoiturage,2022-07-11,true,200065886,3.852038,45.705268,5,0,,,,,
 42044-C-003,SMT-5,Langevin,17 Rue Paul Langevin,LE CHAMBON-FEUGEROLLES,42044,Aire de covoiturage,2022-07-11,true,244200770,4.321933,45.391929,28,0,,,,,
 42044-C-002,SMT-59,Gare Chambon,,LE CHAMBON-FEUGEROLLES,42044,Aire de covoiturage,2022-07-11,true,244200770,4.321629,45.394796,46,0,,,,,
-42056-C-003,SMT-491,Chavanay ""le pressoir"",Luzin - RD 1086,CHAVANAY,42056,Aire de covoiturage,2022-07-11,true,244200895,4.737483,45.418046,17,0,,,,,Autre usage possible
-42056-C-004,SMT-492,Chavanay ""stade"",Stade Raphaél Garde - Les Prairies - RD 7,CHAVANAY,42056,Aire de covoiturage,2022-07-11,true,244200895,4.74035,45.412473,5,0,,,,,Autre usage possible / emplacements non matérialisés
+42056-C-003,SMT-491,"Chavanay ""le pressoir""",Luzin - RD 1086,CHAVANAY,42056,Aire de covoiturage,2022-07-11,true,244200895,4.737483,45.418046,17,0,,,,,Autre usage possible
+42056-C-004,SMT-492,"Chavanay ""stade""",Stade Raphaél Garde - Les Prairies - RD 7,CHAVANAY,42056,Aire de covoiturage,2022-07-11,true,244200895,4.74035,45.412473,5,0,,,,,Autre usage possible / emplacements non matérialisés
 42059-C-001,SMT-116,Aire de Montalègre,Rue Claude Brosse 42140 Chazelles-sur-Lyon,CHAZELLES-SUR-LYON,42059,Aire de covoiturage,2022-07-11,true,200065894,4.3785833,45.6379167,4,0,,,,,places en pavés végétalisés
 42059-C-002,SMT-31,Aire Lamartine,,CHAZELLES-SUR-LYON,42059,Aire de covoiturage,2022-07-11,true,200065894,4.381417,45.634333,12,0,,,,,
 42059-C-004,SMT-32,Aire de la MJC,,CHAZELLES-SUR-LYON,42059,Aire de covoiturage,2022-07-11,true,200065894,4.390694,45.640611,12,0,,,,,
@@ -1123,7 +1123,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 43087-C-002,SMT-168,Parking des Noisetiers,Dunières,DUNIERES,43087,Aire de covoiturage,2022-07-11,true,244300307,4.34905,45.21324,7,0,,,,,
 43137-C-001,SMT-66,MONISTROL-SUR-LOIRE - Aire de Chomette,,MONISTROL-SUR-LOIRE,43137,Aire de covoiturage,2022-07-11,true,200073427,4.1619,45.2809,70,2,,,,,
 43137-C-003,SMT-67,MONISTROL SUR LOIRE - Aire du Mazel,,MONISTROL-SUR-LOIRE,43137,Aire de covoiturage,2022-07-11,true,200073427,4.1794,45.283,44,2,,,,,
-43137-C-004,SMT-94,Aire de covoiturage Praisles,,MONISTROL-SUR-LOIRE,43137,Aire de covoiturage,2022-07-11,true,200073427,4.230998,45.311407,1,0,,,,,L'aire de covoiturage Praisles s'appelle également ""ZA Les Portes du Velay"" à rajouter...
+43137-C-004,SMT-94,Aire de covoiturage Praisles,,MONISTROL-SUR-LOIRE,43137,Aire de covoiturage,2022-07-11,true,200073427,4.230998,45.311407,1,0,,,,,"L'aire de covoiturage Praisles s'appelle également ""ZA Les Portes du Velay"" à rajouter..."
 43141-C-001,SMT-165,Parking de la poste,Montfaucon-en-Velay,MONTFAUCON-EN-VELAY,43141,Aire de covoiturage,2022-07-11,true,244300307,4.31291,45.18395,65,,,,,,
 43150-C-001,C-001,Parking de la Mairie,Croisement N88 et Les piéces longues. derriére la mairie,LE PERTUIS,43150,Parking,2019-08-29,true,200073419,4.05987,45.09765,20,,,,,,
 43152-C-001,C-001,Parking Le Collet-Polignac,Au croisement de la . D136 et avenue de l'hermitage,POLIGNAC,43152,Parking,2019-08-29,true,200073419,3.84977,45.06753,20,,,,,,
@@ -1134,7 +1134,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 43205-C-001,C-001,Aire de covoiturage Les Grangers,Rue de Saint-Didier,ST JUST MALMONT,43205,Aire de covoiturage,2019-08-29,true,254303068,4.314684,45.330306,,,,,,,
 43211-C-001,C-001,Aire de covoiturage de l'Echangeur RN88,75 Larjaller,ST MAURICE DE LIGNON,43211,Aire de covoiturage,2019-08-29,true,254303068,4.138837,45.230773,,,,,,,
 43211-C-004,SMT-163,Rue Victor Robin,130 Rue Victor Robin,SAINT-MAURICE-DE-LIGNON,43211,Parking,2022-07-11,true,244301016,4.13888,45.22639,26,,,,,,
-43211-C-003,SMT-68,SAINT-MAURICE-DE-LIGNON,,SAINT-MAURICE-DE-LIGNON,43211,Aire de covoiturage,2022-07-11,true,244301016,4.1375,45.231,11,1,,,,,Cette aire s'appelle ""Echangeur RN88""
+43211-C-003,SMT-68,SAINT-MAURICE-DE-LIGNON,,SAINT-MAURICE-DE-LIGNON,43211,Aire de covoiturage,2022-07-11,true,244301016,4.1375,45.231,11,1,,,,,"Cette aire s'appelle ""Echangeur RN88"""
 43223-C-001,C-001,Aire du rond-point,Rond-point de Lautat,ST ROMAIN LACHALM,43223,Aire de covoiturage,2019-08-29,true,214301418,4.328555,45.264761,,,,,,,
 43224-C-001,C-001,Aire de covoiturage de Ste Sigoléne,Route de Monistrol,STE SIGOLENE,43224,Aire de covoiturage,2019-08-29,true,200073427,4.222118,45.247069,,,,,,,
 43244-C-001,SMT-170,Parking zone du Fieu,Tence,TENCE,43244,Aire de covoiturage,2022-07-11,true,244301107,4.28845,45.11766,50,2,,,,,
@@ -1423,7 +1423,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 47154-C-001,C-001,Aire de covoiturage de Lusignan-Petit,Route D'Agen Au Pied Du Foyer Rural.,LUSIGNAN PETIT,47154,Aire de covoiturage,2019-08-29,true,224700013,0.524779,44.270867,,,,,,,
 47171-C-001,C-001,Aire de covoiturage de Monbalen,Sur Un Delaisse De La Rn21 Au Croisement De La D110.,MONBALEN,47171,Aire de covoiturage,2019-08-29,true,224700013,0.724652,44.323606,,,,,,,
 47173-C-001,C-001,Aire de covoiturage de Monclar d'Agenais,Sur Le Parking Du Centre De Loisir Et De La Salle Des Fétes. Lieu-Dit Le Magre.,MONCLAR,47173,Aire de covoiturage,2019-08-29,true,224700013,0.536526,44.436302,,,,,,,
-47190-C-001,C-001,Aire de covoiturage de Montpezat-d'Agenais,Devant Le Terrain De Tennis Sur La D13 Au Lieu Dit ""Pont-De-Luzer"".,MONTPEZAT,47190,Aire de covoiturage,2019-08-29,true,224700013,0.535572,44.331705,,,,,,,
+47190-C-001,C-001,Aire de covoiturage de Montpezat-d'Agenais,"Devant Le Terrain De Tennis Sur La D13 Au Lieu Dit ""Pont-De-Luzer"".",MONTPEZAT,47190,Aire de covoiturage,2019-08-29,true,224700013,0.535572,44.331705,,,,,,,
 47203-C-001,C-001,Aire de covoiturage de Penne d'Agenais,Derriére La Gare De Penne D'Agenais. En Face De La Déchetterie.,PENNE D AGENAIS,47203,Aire de covoiturage,2019-08-29,true,224700013,0.803117,44.378964,,,,,,,
 47210-C-001,C-001,Aire de covoiturage de Port-Sainte-Marie,Sur Le Parking Entre La D813. Le Rond-Point De L'Entrée Du Village Et La Voie Ferrée.,PORT STE MARIE,47210,Aire de covoiturage,2019-08-29,true,224700013,0.394924,44.24983,,,,,,,
 47211-C-003,C-003,Maison des vins,Fonratiere,Duras,47211,Aire de covoiturage,2022-04-12,true,244700449,0.18445,44.670361,,,,,sci des vignerons de duras,,
@@ -1601,7 +1601,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 51569-C-001,C-001,Castorama Reims Thillois,140 Rue du Temple de Blosne,THILLOIS,51569,Supermarché,2019-08-29,true,200067213,3.9710773,49.2570889,,,,,,,
 52250-C-001,C-001,Parking du Chéteau du Grand Jardin,3 avenue de la Marne,JOINVILLE,52250,Parking,2019-08-29,true,200044253,5.141106,48.445792,,,,,,,
 52250-C-002,C-002,Zone d'activité du Rongeant,Rue des Coquelicots,JOINVILLE,52250,Parking,2019-08-29,true,200044253,5.15734,48.44694,,,,,,,
-52448-C-002,C-002,Parking privé du ""Relais des Nations"",58 Avenue Roger Salengro,ST DIZIER,52448,Parking,2019-08-29,true,215203233,4.917966667,48.64016389,,,,,,,
+52448-C-002,C-002,"Parking privé du ""Relais des Nations""",58 Avenue Roger Salengro,ST DIZIER,52448,Parking,2019-08-29,true,215203233,4.917966667,48.64016389,,,,,,,
 52448-C-001,C-001,Parking Chéne Saint-Amand,Avenue du Chéne Saint-Amand,ST DIZIER,52448,Parking,2019-08-29,true,215203233,4.966997222,48.62530278,,,,,,,
 52448-C-004,C-004,Parking Timbaud,Avenue Jean-Pierre Timbaud,ST DIZIER,52448,Parking,2019-08-29,true,215203233,4.990825,48.625025,,,,,,,
 52448-C-003,C-003,Parking Stade Charles Jacquin,Rue André Chenier,ST DIZIER,52448,Parking,2019-08-29,true,215203233,4.947855556,48.62648611,,,,,,,
@@ -2212,7 +2212,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 69013-C-001,SMT-461,Villefranche Nord,Dept. 69 - Autoroute A6 - Diffuseur n°31.1,ARNAS,69013,Sortie d'autoroute,2022-07-11,true,200040590,4.721819,46.02125893,22,2,,,,,
 69019-C-001,SMT-211,Parking en gare de Belleville-sur-Saône,15 Boulevard Gambetta - Belleville-sur-Saône,BELLEVILLE-EN-BEAUJOLAIS,69019,Parking,2022-07-11,true,200067817,4.72942704,46.113013,700,,,,,,
 69019-C-002,SMT-209,Parking covoiturage de Belleville-en-Beaujolais,Rue de la Serve de Vigne - Belleville-en-Beaujolais A proximité de l'autoroute A6,BELLEVILLE-EN-BEAUJOLAIS,69019,Aire de covoiturage,2022-07-11,true,200067817,4.75132018,46.1046802,142,,,,,,
-69021-C-001,SMT-434,Bessenay ""La Brévenne"",,BESSENAY,69021,Aire de covoiturage,2022-07-11,true,246900625,4.568019,45.773647,30,0,,,,,"Projet de requalification urbaine du hameau de la Brévenne, l'aire de covoiturage est concernée et sera améliorée (plus de places, ajout de stationnement vélo, déplacement de l'arrêt de car)"
+69021-C-001,SMT-434,"Bessenay ""La Brévenne""",,BESSENAY,69021,Aire de covoiturage,2022-07-11,true,246900625,4.568019,45.773647,30,0,,,,,"Projet de requalification urbaine du hameau de la Brévenne, l'aire de covoiturage est concernée et sera améliorée (plus de places, ajout de stationnement vélo, déplacement de l'arrêt de car)"
 69023-C-001,SMT-74,Blacé Parking Salle des fêtes,,BLACE,69023,Aire de covoiturage,2022-07-11,true,200040590,4.648736,46.033071,2,0,,,,,
 69029-C-003,C-003,Parking Espace Albert Camus,Espace Albert Camus,BRON,69029,Parking,2019-08-29,true,200046977,4.9167626,45.7267711,128,,,,,,
 69029-C-002,C-002,Hippodrome de Parilly,Parc de Parilly,BRON,69029,Parking,2019-08-29,true,200046977,4.9108159,45.7209238,140,,,,,,
@@ -2322,7 +2322,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 69228-C-003,SMT-207,Parking des côtes,Route de Chaussan. Chabanière (Saint-Sorlin),CHABANIERE,69228,Aire de covoiturage,2022-07-11,true,246900740,4.63913610355618,45.6220962674923,4,1,,,,,
 69228-C-002,SMT-206,Parking du clos des mûres,Rue du Nord. Chabanière (St Maurice),CHABANIERE,69228,Aire de covoiturage,2022-07-11,true,246900740,4.63016331056334,45.5834063323022,15,2,,,,,
 69229-C-001,SMT-328,Covoit GO - centre Bourg de St Nizier d'Azergues,St nizier d'Azergues,SAINT-NIZIER-D'AZERGUES,69229,Auto-stop,2022-07-11,true,200040566,4.46491067,46.08801478,0,,,,,,
-69231-C-001,SMT-441,Saint-Pierre-la-Palud ""La Madone"","Parking de la Madone, rue des Trèves",SAINT-PIERRE-LA-PALUD,69231,Parking,2022-07-11,true,246900625,4.60916143542824,45.7917505819078,5,1,,,,,5 places réservées au covoiturage sur le Parking de la Madone
+69231-C-001,SMT-441,"Saint-Pierre-la-Palud ""La Madone""","Parking de la Madone, rue des Trèves",SAINT-PIERRE-LA-PALUD,69231,Parking,2022-07-11,true,246900625,4.60916143542824,45.7917505819078,5,1,,,,,5 places réservées au covoiturage sur le Parking de la Madone
 69238-C-001,SMT-180,Aire des Rameaux,"Boulevard des Monts du Lyonnais, 69590 Saint Symphorien sur Coise",SAINT-SYMPHORIEN-SUR-COISE,69238,Aire de covoiturage,2022-07-11,true,200066587,4.46088575927851,45.6350308707462,20,,,,,,
 69241-C-001,SMT-202,Parking du Prieuré,Rue du Prieuré. Taluyers,TALUYERS,69241,Aire de covoiturage,2022-07-11,true,246900740,4.72436905309226,45.6413063006988,10,1,,,,,
 69243-C-002,SMT-326,Covoit'ici  Tarare-Est,avenue Edouard Herriot (Route Nationale 7),TARARE,69243,Auto-stop,2022-07-11,false,200040566,4.445935,45.89053,0,,,,,,
