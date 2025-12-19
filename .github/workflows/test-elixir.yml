@@ -1,0 +1,14 @@
+name: Validation bnlc-.csv
+on: push
+
+jobs:
+  test_elixir:
+    runs-on: ubuntu-latest
+    name: Validation bnlc-.csv
+    steps:
+      - uses: actions/checkout@v6
+      - uses: erlef/setup-beam@v1
+        with:
+          version-file: .tool-versions
+          version-type: strict
+      - run: elixir test.exs
