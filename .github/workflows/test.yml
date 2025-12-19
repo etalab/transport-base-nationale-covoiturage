@@ -1,5 +1,4 @@
 name: Validate datasets.csv
-
 on:
   push:
 
