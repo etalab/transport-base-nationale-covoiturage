@@ -231,7 +231,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 16085-20_DRA16_085,20_DRA16_085,Chantebuse,Giratoire de Chante Buse,Chasseneuil-sur-Bonnieure,16085,Aire de covoiturage,2020-02-17,true,221600018,0.467048,45.83213,19,1,10080,24/7,Département de la Charente,false,
 16089-21_DRA16_089,21_DRA16_089,La Trache,A proximité directe du giratoire RN 141 de la Trache le long de la RD149,Châteaubernard,16089,Aire de covoiturage,2021-01-19,true,221600018,-0.293278,45.68026,38,2,10080,24/7,Commune de Châteaubernard,false,Aire équipée d'un arrêt de bus (Ligne Transcom Grand Cognac)
 16089-20_DRA16_089,20_DRA16_089,La pointe à Rullaud,Aux abords carrefour RD731/RD149 Chemin de Treillis,Châteaubernard,16089,Aire de covoiturage,2020-02-17,true,221600018,-0.328885,45.66764,19,1,10080,24/7,Commune de Châteaubernard,false,
-16095-20_DRA16_095,20_DRA16_095,Chenon - Maisons Rouges,Chemin de Bel Air,Chenon,16095,Aire de covoiturage,2020-02-17,true,221600018,0.203251,45.9361,10,0,10080,24/7,CdC Cœur de Charente,false,De part et d'autre de la voie d'accès à la ZE des "Maisons rouges" (D 27). Avant l'entrée du CEI de la DIRA
+16095-20_DRA16_095,20_DRA16_095,Chenon - Maisons Rouges,Chemin de Bel Air,Chenon,16095,Aire de covoiturage,2020-02-17,true,221600018,0.203251,45.9361,10,0,10080,24/7,CdC Cœur de Charente,false,De part et d'autre de la voie d'accès à la ZE des Maisons rouges (D 27). Avant l'entrée du CEI de la DIRA
 16102-20_DRA16_102,20_DRA16_102,Crouin,Boulevard André Malraux,Cognac,16102,Aire de covoiturage,2020-02-17,true,221600018,-0.350831,45.69314,30,0,10080,24/7,Commune de Cognac,true,Portique avec limitation de hauteur
 16106-20_DRA16_106,20_DRA16_106,Confolens - Lycée Emile Roux,Avenue du Général de Gaulle (D948),Confolens,16106,Aire de covoiturage,2020-02-17,true,221600018,0.673277,46.0039,10,0,10080,24/7,Commune de Confolens,true,Aire intégrée au parking du Lycée  Emile Roux. Bus scolaires
 16106-22_DRA16_106,22_DRA16_106,Terre Neuve,RD948_GIR_4,Confolens,16106,Aire de covoiturage,2022-01-10,true,221600018,0.653382,46.02552,13,1,10080,24/7,Département de la Charente,false,Aire intégrée au parking de Terre Neuve
@@ -2228,4 +2228,5 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 97415-C-004,C-004,Saint Paul,,ST PAUL,97415,Aire de covoiturage,2020-09-05,true,239740012,55.2476396,-21.0430133,30,,,24/7,aire appartenant et réalisée par le Conseil départemental,false,
 97418-C-001,C-001,Pôle d'échange Multimodal (PEM) Duparc,,STE MARIE,97418,Aire de covoiturage,2020-09-04,true,239740012,55.5222032,-20.8981291,10,,,24/7,aire régionale,false,
 97420-C-001,C-001,La Marine,,STE SUZANNE,97420,Aire de covoiturage,2020-09-02,true,239740012,55.6192903,-20.9155389,40,,,24/7,aire régionale,false,
+
 
