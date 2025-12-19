@@ -240,7 +240,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 16132-22_DRA16_132,22_DRA16_132,Mons,RD941_GIR_0  Giratoire de Mons,Étagnac,16132,Aire de covoiturage,2022-01-10,true,221600018,0.816801,45.88828,17,1,10080,24/7,Département de la Charente,false,
 16134-21_DRA16_134,21_DRA16_134,Chêne Vert,Giratoire de Chantalouette,Exideuil-sur-Vienne,16134,Aire de covoiturage,2021-01-19,true,221600018,0.690787,45.87257,19,1,10080,24/7,Département de la Charente,false,
 16138-22_DRA16_138,22_DRA16_138,Brénat,D 37,Fléac,16138,Aire de covoiturage,2022-11-30,false,221600018,0.072553,45.68471,23,2,10080,24/7,SNCF RESEAU,false,
-16143-20_DRA16_143,20_DRA16_143,L’Étang Genevreaux,Lieu-dit "L'Etang Genevreaux",Fouquebrune,16143,Aire de covoiturage,2020-02-17,true,221600018,0.179956,45.53535,9,0,10080,24/7,Département de la Charente,false,Ligne régulière
+16143-20_DRA16_143,20_DRA16_143,L’Étang Genevreaux,Lieu-dit L'Etang Genevreaux,Fouquebrune,16143,Aire de covoiturage,2020-02-17,true,221600018,0.179956,45.53535,9,0,10080,24/7,Département de la Charente,false,Ligne régulière
 16153-20_DRA16_153,20_DRA16_153,Mainxe - Montagan,Echangeur de Montagan - Giratoire sud N141-D736,Mainxe-Gondeville,16153,Aire de covoiturage,2020-02-17,true,221600018,-0.189338,45.66835,18,1,10080,24/7,Département de la Charente,true,
 16167-20_DRA16_167,20_DRA16_167,La Belloire,Échangeur nord-déviation de Jarnac « La Belloire » (D941/D194),Jarnac,16167,Aire de covoiturage,2020-02-17,true,221600018,-0.139842,45.69258,30,2,10080,24/7,Département de la Charente,false,Giratoire D941/D194. Ligne interurbaine 15
 16200-21_DRA16_200,21_DRA16_200,Moulin à Vent,Echangeur sud de Mansle - Giratoire N10-D40,Maine-de-Boixe,16200,Aire de covoiturage,2021-01-19,true,221600018,0.18456,45.8626,19,2,10080,24/7,Département de la Charente,false,
@@ -2228,5 +2228,6 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 97415-C-004,C-004,Saint Paul,,ST PAUL,97415,Aire de covoiturage,2020-09-05,true,239740012,55.2476396,-21.0430133,30,,,24/7,aire appartenant et réalisée par le Conseil départemental,false,
 97418-C-001,C-001,Pôle d'échange Multimodal (PEM) Duparc,,STE MARIE,97418,Aire de covoiturage,2020-09-04,true,239740012,55.5222032,-20.8981291,10,,,24/7,aire régionale,false,
 97420-C-001,C-001,La Marine,,STE SUZANNE,97420,Aire de covoiturage,2020-09-02,true,239740012,55.6192903,-20.9155389,40,,,24/7,aire régionale,false,
+
 
 
