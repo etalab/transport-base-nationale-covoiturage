@@ -249,7 +249,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 16276-22_DRA16_276,22_DRA16_276,Reignac,Giratoire RN10/RD910/RD14,Reignac,16276,Aire de covoiturage,2022-01-10,true,221600018,-0.174848,45.42764,7,1,10080,24/7,Commune de Reignac,false,
 16281-21_DRA16_281,21_DRA16_281,La Bécasse,Echangeur de St-Projet,La Rochefoucauld-en-Angoumois,16281,Aire de covoiturage,2021-01-19,true,221600018,0.344547,45.73613,11,1,10080,24/7,Département de la Charente,true,Parking sur DP communal
 16286-20_DRA16_286,20_DRA16_286,Rouillac - Près de Lorret,"482, Route d'Aigre - Lieu-dit Lorret (carrefour D939/D736)",Rouillac,16286,Aire de covoiturage,2020-02-17,true,221600018,-0.06291,45.77953,15,0,10080,24/7,Commune de Rouillac,true,Aire intégrée dans le parking face à la piscine avec toilettes publiques
-16287-20_DRA16_287,20_DRA16_287,Roullet Le Berguille,Echangeur de la N 10 / D 7 au lieu dit "le Berguille",Roullet-Saint-Estèphe,16287,Aire de covoiturage,2020-02-17,true,221600018,0.03377,45.5749,20,2,10080,24/7,Commune de Roullet-Saint-Estèphe,true,
+16287-20_DRA16_287,20_DRA16_287,Roullet Le Berguille,Echangeur de la N 10 / D 7 au lieu dit le Berguille,Roullet-Saint-Estèphe,16287,Aire de covoiturage,2020-02-17,true,221600018,0.03377,45.5749,20,2,10080,24/7,Commune de Roullet-Saint-Estèphe,true,
 16350-20_DRA16_350,20_DRA16_350,Saint-Séverin - Le stade,Rue du Stade,Saint-Séverin,16350,Aire de covoiturage,2020-02-17,true,221600018,0.249987,45.31398,8,1,10080,24/7,Commune de Saint-Séverin,true,Aire intégrée dans le parking du stade
 16358-20_DRA16_358,20_DRA16_358,Jaurès - Les planes,Les Planes - Rue de Royan (RN 141),Saint-Yrieix-sur-Charente,16358,Aire de covoiturage,2020-02-17,true,221600018,0.12039,45.66791,33,0,10080,24/7,Commune de Saint-Yrieix-sur-Charente,false,Portique en bois avec limitation de hauteur. Lignes Möbius 5 et 71
 16358-22_DRA16_358,22_DRA16_358,Villesèche,Route de Saint-Jean-d'Angély,Saint-Yrieix-sur-Charente,16358,Aire de covoiturage,2022-11-30,true,221600018,0.103644,45.69126,20,2,10080,24/7,Département de la Charente,false,
@@ -890,7 +890,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 38562-C-002,C-002,Vizille le péage,Route du Maquis de L'Oisans,Vizille,38562,Parking,2019-07-18,true,200040715,5.771164977,45.05767243,10,0,,,Grenoble-Alpes Métropole,true,
 38563-C-001,C-001,P+R Champfeuillet,11 Route des Bois Parc de Montaly,Voiron,38563,Parking relais,2019-07-18,true,243800984,5.567052357,45.35018777,132,3,,,Pays Voironnais,true,
 38920-C-001,C-001,Gare de Brignoud,Avenue Robert Huant,Brignoud,38920,Parking,2019-07-18,true,200018166,5.901533,45.262624,115,,,,Le Grésivaudan,,
-39046-C-001,C-001,Bouléme,Lieu dit "Bouléme". 39310 Bellecombe,BELLECOMBE,39046,Parking,2019-08-29,true,223900010,5.923287605,46.32467872,,,,,,,
+39046-C-001,C-001,Bouléme,Lieu dit Bouléme. 39310 Bellecombe,BELLECOMBE,39046,Parking,2019-08-29,true,223900010,5.923287605,46.32467872,,,,,,,
 39059-C-001,C-001,Salle Polyvalente,5 Rue des Couenneaux. 39220 Bois-d'Amont,BOIS D AMONT,39059,Parking,2019-08-29,true,223900010,6.137689049,46.53740853,,,,,,,
 39129-C-002,C-002,Zone artisanale,route des. 1 Route de Genéve. 39150 Chaux-des-Crotenay,CHAUX DES CROTENAY,39129,Parking,2019-08-29,true,223900010,5.9439349,46.6558787,,,,,,,
 39130-C-001,C-001,Chaux-des-Prés,11 Route Principale. 39150 Chaux des Prés,NANCHEZ,39130,Parking,2019-08-29,true,223900010,5.868544816,46.50849004,,,,,,,
@@ -964,7 +964,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 43190-C-001,C-001,Parking Fay-La Triouleyre,Au croisement de route de Malescot N88 D150,ST GERMAIN LAPRADE,43190,Parking,2019-08-29,true,200073419,3.94455,45.05478,20,,,,,,
 43205-C-001,C-001,Aire de covoiturage Les Grangers,Rue de Saint-Didier,ST JUST MALMONT,43205,Aire de covoiturage,2019-08-29,true,254303068,4.314684,45.330306,,,,,,,
 43211-C-001,C-001,Aire de covoiturage de l'Echangeur RN88,75 Larjaller,ST MAURICE DE LIGNON,43211,Aire de covoiturage,2019-08-29,true,254303068,4.138837,45.230773,,,,,,,
-43211-SMT-68,SMT-68,SAINT-MAURICE-DE-LIGNON,,SAINT-MAURICE-DE-LIGNON,43211,Aire de covoiturage,2022-07-11,true,244301016,4.1375,45.231,11,1,,,,,Cette aire s'appelle "Echangeur RN88"
+43211-SMT-68,SMT-68,SAINT-MAURICE-DE-LIGNON,,SAINT-MAURICE-DE-LIGNON,43211,Aire de covoiturage,2022-07-11,true,244301016,4.1375,45.231,11,1,,,,,Cette aire s'appelle Echangeur RN88
 43224-C-001,C-001,Aire de covoiturage de Ste Sigoléne,Route de Monistrol,STE SIGOLENE,43224,Aire de covoiturage,2019-08-29,true,200073427,4.222118,45.247069,,,,,,,
 44067-C-002,C-002,Prairie du Don,Rue Saint-Jean,Guéméné Penfao,44067,Aire de covoiturage,2021-06-08,true,110002011,-1.83403390008421,47.6276433139795,0,0,,,,false,
 44128-C-003,C-003,Etang de Plessé,Etang de Plessé,Plessé,44128,Aire de covoiturage,2021-06-08,true,110002011,-1.88734414464865,47.5388595995147,10,1,,,,false,
@@ -993,7 +993,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 47154-C-001,C-001,Aire de covoiturage de Lusignan-Petit,Route D'Agen Au Pied Du Foyer Rural.,LUSIGNAN PETIT,47154,Aire de covoiturage,2019-08-29,true,224700013,0.524779,44.270867,,,,,,,
 47171-C-001,C-001,Aire de covoiturage de Monbalen,Sur Un Delaisse De La Rn21 Au Croisement De La D110.,MONBALEN,47171,Aire de covoiturage,2019-08-29,true,224700013,0.724652,44.323606,,,,,,,
 47173-C-001,C-001,Aire de covoiturage de Monclar d'Agenais,Sur Le Parking Du Centre De Loisir Et De La Salle Des Fétes. Lieu-Dit Le Magre.,MONCLAR,47173,Aire de covoiturage,2019-08-29,true,224700013,0.536526,44.436302,,,,,,,
-47190-C-001,C-001,Aire de covoiturage de Montpezat-d'Agenais,Devant Le Terrain De Tennis Sur La D13 Au Lieu Dit "Pont-De-Luzer".,MONTPEZAT,47190,Aire de covoiturage,2019-08-29,true,224700013,0.535572,44.331705,,,,,,,
+47190-C-001,C-001,Aire de covoiturage de Montpezat-d'Agenais,Devant Le Terrain De Tennis Sur La D13 Au Lieu Dit Pont-De-Luzer.,MONTPEZAT,47190,Aire de covoiturage,2019-08-29,true,224700013,0.535572,44.331705,,,,,,,
 47203-C-001,C-001,Aire de covoiturage de Penne d'Agenais,Derriére La Gare De Penne D'Agenais. En Face De La Déchetterie.,PENNE D AGENAIS,47203,Aire de covoiturage,2019-08-29,true,224700013,0.803117,44.378964,,,,,,,
 47210-C-001,C-001,Aire de covoiturage de Port-Sainte-Marie,Sur Le Parking Entre La D813. Le Rond-Point De L'Entrée Du Village Et La Voie Ferrée.,PORT STE MARIE,47210,Aire de covoiturage,2019-08-29,true,224700013,0.394924,44.24983,,,,,,,
 47211-C-003,C-003,Maison des vins,Fonratiere,Duras,47211,Aire de covoiturage,2022-04-12,true,244700449,0.18445,44.670361,,,,,sci des vignerons de duras,,
