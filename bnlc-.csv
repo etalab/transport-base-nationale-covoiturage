@@ -66,7 +66,7 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 04070-C-001,C-001,Parking Décathlon Route de Marseille,5 Route de Marseille. 04000 Digne-les-Bains,DIGNE LES BAINS,04070,Parking,2019-08-29,true,220400014,6.17887,44.069529,,,,,,,
 04084-C-001,C-001,Parking Entrée de Village,D907 à droite de l'entrée du village en arrivant de Mézel,ESTOUBLON,04084,Parking,2019-08-29,true,220400014,6.17125,43.943831,,,,,,,
 04086-C-001,C-001,Place de L'église,2 Le Village. 04400 Faucon-de-Barcelonnette,FAUCON DE BARCELONNETTE,04086,Parking,2019-08-29,true,220400014,6.678269,44.393746,,,,,,,
-04104-C-001,C-001,Parking devant Le Camping "Les Lauzons",Les Bouires,LIMANS,04104,Parking,2019-08-29,true,220400014,5.733151,43.973047,,,,,,,
+04104-C-001,C-001,Parking devant Le Camping Les Lauzons,Les Bouires,LIMANS,04104,Parking,2019-08-29,true,220400014,5.733151,43.973047,,,,,,,
 04110-C-001,C-001,Parking de L'Esplanade Jean Moulin,4586 Avenue du Général de Gaulle. 04510 Mallemoisson,MALLEMOISSON,04110,Parking,2019-08-29,true,220400014,6.126217,44.041722,,,,,,,
 04122-C-001,C-001,Parking Au Carrefour des 4 Chemins,D117 & D17,MIRABEAU,04122,Parking,2019-08-29,true,220400014,6.10239,44.05902,,,,,,,
 04174-C-001,C-001,Parking du Croisement D460 et Rn202 (Au Passage à Niveau),D460. 04240 Saint-Benoét,ST BENOIT,04174,Parking,2019-08-29,true,220400014,6.724074,43.960158,,,,,,,
@@ -2228,3 +2228,4 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 97415-C-004,C-004,Saint Paul,,ST PAUL,97415,Aire de covoiturage,2020-09-05,true,239740012,55.2476396,-21.0430133,30,,,24/7,aire appartenant et réalisée par le Conseil départemental,false,
 97418-C-001,C-001,Pôle d'échange Multimodal (PEM) Duparc,,STE MARIE,97418,Aire de covoiturage,2020-09-04,true,239740012,55.5222032,-20.8981291,10,,,24/7,aire régionale,false,
 97420-C-001,C-001,La Marine,,STE SUZANNE,97420,Aire de covoiturage,2020-09-02,true,239740012,55.6192903,-20.9155389,40,,,24/7,aire régionale,false,
+
