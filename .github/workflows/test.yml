@@ -6,6 +6,7 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    name: Validation datasets.csv
     steps:
     - uses: actions/checkout@v6
     - uses: actions/setup-python@v6

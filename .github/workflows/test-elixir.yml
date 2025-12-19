@@ -3,7 +3,7 @@ on: push
 jobs:
   test_elixir:
     runs-on: ubuntu-latest
-    name: Validate proxy-config.yml
+    name: Validation bnlc-.csv
     steps:
       - uses: actions/checkout@v6
       - uses: erlef/setup-beam@v1
