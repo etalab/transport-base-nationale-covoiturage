@@ -1,4 +1,3 @@
 dataset_url,region,departement,epci,commune,comm
 https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-organisation-microstop-1/,,,,,Microstop avec 5 lieux lors de l'ajout
 https://www.data.gouv.fr/fr/datasets/recensement-des-aires-de-covoiturage-en-hauts-de-france/,HDF,,,,Région Hauts-de-France avec 33 lieux lors de l'ajout
-https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-dans-le-departement-de-la-haute-marne-csv/,GE,52,,,Département de la Haute-Marne avec 19 lieux lors de l'ajout
