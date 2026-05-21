@@ -1689,7 +1689,6 @@ id_lieu,id_local,nom_lieu,ad_lieu,com_lieu,insee,type,date_maj,ouvert,source,Xlo
 63295-C-001,C-001,Parking du Cimetiére,46 Avenue de Vichy. 63310 Randan,RANDAN,63295,Parking,2019-08-29,true,226300010,3.354723641,46.02224265,,,,,,,
 63297-C-001,C-001,Parking Parmenier,Parmenier. 63160 Reignat,REIGNAT,63297,Parking,2019-08-29,true,226300010,3.35454242,45.75137424,,,,,,,
 63305-C-001,C-001,Parking Croisement Chemin du Maréchal Et N89,6 Chemin du Marchédial. 63210 Rochefort-Montagne,ROCHEFORT MONTAGNE,63305,Parking,2019-08-29,true,226300010,2.8010369,45.68523828,,,,,,,
-63308-C-001,C-001,Parking du Stade,1bis Chemin du Breuil. 63130 Royat,ROYAT,63308,Parking,2019-08-29,true,226300010,3.041953353,45.76498299,,,,,,,
 63319-C-001,SMT-29,SAINT-ANTHEME - Salle du Moulin,,SAINT-ANTHEME,63319,Aire de covoiturage,2022-07-11,true,200070761,3.9149,45.5275,30,0,,,,,
 63327-C-002,C-002,Parking du Stade,3 Rue du Stade. 63200 Saint-Bonnet-prés-Riom,ST BONNET PRES RIOM,63327,Parking,2019-08-29,true,226300010,3.109231203,45.93446242,,,,,,,
 63327-C-001,C-001,Parking Croisement D421 Et D2009,D2009,ST BONNET PRES RIOM,63327,Parking,2019-08-29,true,226300010,3.14122708,45.9239458,,,,,,,
