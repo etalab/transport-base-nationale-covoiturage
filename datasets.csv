@@ -50,4 +50,4 @@ https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-communaute-de-communes
 https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-dans-le-departement-de-la-haute-marne-csv/,GE,52,,,Département de la Haute-Marne avec 19 lieux lors de l'ajout
 https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-perimetre-du-smtc,ARA,63,246300701,,Clermont Auvergne Métropole avec 31 lignes lors de l'ajout
 https://www.data.gouv.fr/fr/datasets/lieux-de-covoiturage-de-la-cc-serre-poncon-val-davance/,PAC,04,200067320,,Communauté de communes Serre-Ponçon Val d'Avance avec 3 lieux lors de l'ajout
-datasets/lieux-de-covoiturage-organisation-mazagran-service/,BFC,89,416220010,,Mazagran Service
+lieux-de-covoiturage-organisation-mazagran-service,BFC,89,416220010,,Mazagran Service
